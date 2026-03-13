@@ -1,0 +1,14 @@
+title: "Train Smarter Not Harder"
+name: "Benjamin Thorne"
+description: "Notes, projects, and research thoughts"
+url: "https://Benji916.github.io"
+repository: "Benji916/Benji916.github.io"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+author:
+  name: "Benjamin Thorne"
